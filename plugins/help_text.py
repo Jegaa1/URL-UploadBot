@@ -72,7 +72,7 @@ async def help_user(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/HxBots'),
+          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/JAsuranbots'),
           ]
         ]
        ),
@@ -97,7 +97,7 @@ async def about(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/HxBots'),
+          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/JAsuranbots'),
           ]
         ]
        ),
@@ -114,7 +114,7 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 CHANNEL', url='https://t.me/HxBots'),
+          InlineKeyboardButton('📍 CHANNEL', url='https://t.me/JAsuranbots'),
       ],
       [
           InlineKeyboardButton('👨‍💻 DEVELOPER', url='https://t.me/kirodewal'),
